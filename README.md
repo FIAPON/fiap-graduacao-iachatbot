@@ -9,7 +9,8 @@ A estrutura do repositório está organizada da seguinte forma:
 ### 🔹 Introdução à Ciência de Dados
 - `Aula 13 - Dados, Informacao e Conhecimento.ipynb`  
   *Definições fundamentais de dados, informação e conhecimento, com exemplos práticos.*
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula 13 - Dados, Informacao e Conhecimento.ipynb)
+  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula13__Dados_Informacao_Conhecimento.ipynb)
 
 - `Aula 16 - Introducao_Ciencia_dados.ipynb`  
   *Exploração inicial da Ciência de Dados e sua aplicação em IA.*
