@@ -52,7 +52,7 @@ Abaixo estão os codigos da aula:
 
 ### Aula 18 - Regressão
 - **Introdução ao Aprendizado Supervisionado - Regressão**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula18_ Introducao_Aprendizado_Supervisionado_Regressao.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula18_Introducao_Aprendizado_Supervisionado_Regressao)
 
 ### Aula 19 - Aprendizado Não Supervisionado
 - **Agrupamento (K-Means, DBSCAN, etc.)**  
