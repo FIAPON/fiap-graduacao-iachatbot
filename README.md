@@ -4,9 +4,7 @@ Este repositório contém materiais de apoio para a disciplina **IA & Chatbot** 
 
 ## 📚 Conteúdo do Repositório
 
-Abaixo estão os codigos da aula:
-
-## 📌 Notebooks Disponíveis no Google Colab
+Abaixo estão os codigos das aulas:
 
 ### Aula 13 - Dados, Informação e Conhecimento
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula13__Dados_Informacao_Conhecimento.ipynb)
