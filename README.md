@@ -4,58 +4,60 @@ Este repositório contém materiais de apoio para a disciplina **IA & Chatbot** 
 
 ## 📚 Conteúdo do Repositório
 
-A estrutura do repositório está organizada da seguinte forma:
+Abaixo estão os codigos da aula:
 
-### 🔹 Introdução à Ciência de Dados
-- `Aula 13 - Dados, Informacao e Conhecimento.ipynb`  
-  *Definições fundamentais de dados, informação e conhecimento, com exemplos práticos.*
-  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula13__Dados_Informacao_Conhecimento.ipynb)
+## 📌 Notebooks Disponíveis no Google Colab
 
-- `Aula 16 - Introducao_Ciencia_dados.ipynb`  
-  *Exploração inicial da Ciência de Dados e sua aplicação em IA.*
+### Aula 13 - Dados, Informação e Conhecimento
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula13__Dados_Informacao_Conhecimento.ipynb)
 
-### 📊 Estatística e Visualização de Dados
-- `Aula 14 - Estatística I.ipynb`  
-  *Introdução à estatística, medidas de tendência central e dispersão.*
+### Aula 14 - Estatística
+- **Estatística I**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula14_EstatisticaI.ipynb)
 
-- `Aula 14 - Estatística II - Descritiva.ipynb`  
-  *Estatística descritiva, gráficos e análises básicas.*
+- **Estatística II - Descritiva**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula14_EstatisticaII_Descritiva.ipynb)
 
-- `Aula 15 - Visualizacao de Dados.ipynb`  
-  *Técnicas de visualização de dados utilizando bibliotecas como Matplotlib e Seaborn.*
+### Aula 15 - Visualização de Dados
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula15_Visualizacao_Dados.ipynb)
 
-### 🤖 Aprendizado de Máquina
-#### 🔹 Modelos Supervisionados
-- `Aula 17 - Introdução ao Aprendizado Supervisionado - Classificação.ipynb`  
-  *Conceitos básicos de modelos supervisionados com exemplos práticos.*
+### Aula 16 - Introdução à Ciência de Dados
+- **Introdução à Ciência de Dados**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula16_Intro_CD.ipynb)
 
-- `Aula 17 - Aprendizado Supervisionado - KNN - 1.ipynb`  
-  *Implementação do algoritmo K-Nearest Neighbors (KNN) para classificação.*
+- **Introdução à Ciência de Dados - Parte 2**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula16_Introducao_Ciencia_dados.ipynb)
 
-- `Aula 17 - Aprendizado Supervisionado - KNN - 2.ipynb`  
-  *Aprofundamento em KNN, ajustes de hiperparâmetros e avaliação.*
+### Aula 17 - Aprendizado Supervisionado
+- **K-Nearest Neighbors (KNN) - Parte 1**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Aprendizado_Supervisionado_KNN_1.ipynb)
 
-- `Aula 17 - Aprendizado Supervisionado RegLog.ipynb`  
-  *Regressão Logística para classificação de dados.*
+- **K-Nearest Neighbors (KNN) - Parte 2**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Aprendizado_Supervisionado_KNN_2.ipynb)
 
-- `Aula 17 - Aprendizado Supervisionado SVM.ipynb`  
-  *Suporte a Vetores de Máquinas (SVM) para classificação.*
+- **Regressão Logística**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Aprendizado_Supervisionado_RegLog.ipynb)
 
-- `Aula 17 - Aprendizado Supervisionado TFIDF ArvDec.ipynb`  
-  *Uso de TF-IDF para processamento de texto e aplicação de Árvores de Decisão.*
+- **Suporte a Vetores de Máquinas (SVM)**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Aprendizado_Supervisionado_SVM.ipynb)
 
-#### 🔹 Processamento de Linguagem Natural (NLP)
-- `Aula 17 - Introdução ao Processamento de Linguagem Natural Versão.ipynb`  
-  *Conceitos básicos de NLP aplicados a chatbots.*
+- **TF-IDF e Árvores de Decisão**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Aprendizado_Supervisionado_TFIDF_ArvDec.ipynb)
 
-#### 🔹 Modelos Não Supervisionados
-- `Aula 19 - Introdução ao Aprendizado não Supervisionado - Agrupamento(2).ipynb`  
-  *Técnicas de agrupamento como K-Means e DBSCAN.*
+- **Introdução à Classificação**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Introducao_Aprendizado_Supervisionado_Classificacao.ipynb)
 
-#### 🔹 Modelos de Regressão
-- `Aula 18 - Introdução ao Aprendizado Supervisionado - Regressao.ipynb`  
-  *Modelos de regressão, incluindo Regressão Linear e Polinomial.*
+- **Introdução ao Processamento de Linguagem Natural**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Introducao_Processamento_Linguagem_Natural.ipynb)
+
+### Aula 18 - Regressão
+- **Introdução ao Aprendizado Supervisionado - Regressão**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula18_Introducao_Aprendizado_Supervisionado_Regressao.ipynb)
+
+### Aula 19 - Aprendizado Não Supervisionado
+- **Agrupamento (K-Means, DBSCAN, etc.)**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula19_Introducao_Apendizado_nao_Supervinsionado_Agrupamento(2).ipynb)
+
 
 ---
 
