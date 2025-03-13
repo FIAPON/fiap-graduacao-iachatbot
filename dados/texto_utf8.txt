@@ -1,0 +1,12 @@
+Este é um arquivo de texto condificado em ansi. 
+Contendo carateres da língua portuguesa como ç e vários símbolos gráficos !@#$%%¨
+A acentuação das palavras como macarrão, vírus, silêncio, ações e ginásio podem ser exibidas erradas se o encoding de texto não for usado certo.
+Nova Linha
+
+
+
+Outra NOva Linha
+
+
+
+Outra NOva Linha 1000

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tracker de Cliques e Posição do Mouse</title>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+</head>
+<body>
+
+<script>
+    // Array para armazenar os dados
+    var data = [];
+
+    // Função para coletar cliques e posição do mouse
+    function trackClickAndPosition(event) {
+        var clickData = {
+            timestamp: new Date().toISOString(),
+            xPosition: event.clientX,
+            yPosition: event.clientY
+        };
+
+        // Adiciona os dados ao array
+        data.push(clickData);
+    }
+
+    // Adiciona um ouvinte de eventos para o clique do mouse
+    $(document).on('click', trackClickAndPosition);
+
+    // Função para salvar os dados em CSV
+    function saveDataToCSV() {
+        var csvContent = "data:text/csv;charset=utf-8,";
+        csvContent += "Timestamp,X Position,Y Position\n";
+
+        data.forEach(function (click) {
+            csvContent += click.timestamp + "," + click.xPosition + "," + click.yPosition + "\n";
+        });
+
+        // Cria um link para download do CSV
+        var encodedUri = encodeURI(csvContent);
+        var link = document.createElement("a");
+        link.setAttribute("href", encodedUri);
+        link.setAttribute("download", "click_data.csv");
+        document.body.appendChild(link);
+
+        // Simula um clique no link para iniciar o download
+        link.click();
+    }
+
+    // Adiciona um botão para salvar os dados em CSV
+    $(document.body).append('<button onclick="saveDataToCSV()">Salvar em CSV</button>');
+</script>
+
+</body>
+</html>
