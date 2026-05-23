@@ -21,6 +21,23 @@ Abaixo estão os codigos das aulas:
 ### Aula 05 - Prática: Regressão Logística Titanic
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_05_Pratica_Regressao_Logistica_Titanic.ipynb)
 
+### Aula 07 - Prática: SVM Titanic
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_07_Pratica_SVM_Titanic.ipynb)
+
+### Aula 08 - Prática: Árvore de Decisão Titanic
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_08_Pratica_Arvore_de_Decisao_Titanic.ipynb)
+
+### Aula 09 - Prática: Regressão Linear Titanic
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_09_Pratica_Regressao_Linear_Titanic.ipynb)
+
+### Aula 10 - Prática: KMeans Titanic
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_10_Pratica_KMeans_Titanic.ipynb)
+
+
+
+### Aula  Deploy Flask: Regressão Logística
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula%2020%20-%20Deploy%20Flask/reg_log.ipynb)
+
 
 ---
 
