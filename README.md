@@ -35,7 +35,7 @@ Abaixo estão os codigos das aulas:
 
 
 
-### Aula  Deploy Flask: Regressão Logística
+### Aula 20 - Deploy Flask: Regressão Logística
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula%2020%20-%20Deploy%20Flask/reg_log.ipynb)
 
 
@@ -43,22 +43,10 @@ Abaixo estão os codigos das aulas:
 
 ## 🚀 Como Utilizar os Notebooks
 
-1. Clone o repositório para seu ambiente local:
-   ```bash
-   git clone https://github.com/seu-repositorio.git
-   ```
----
+1. Escolha o notebook da aula que deseja estudar na lista acima.
+2. Clique no badge **Open In Colab** correspondente ao notebook.
+3. Com a conta Google já logada, execute as células no Colab para acompanhar os estudos.
 
-## 📌 Requisitos
-
-Os notebooks foram desenvolvidos utilizando **Python 3.x** e fazem uso das seguintes bibliotecas:
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
-Para garantir a execução correta, utilize um ambiente virtual com os pacotes acima instalados.
 
 ---
 
@@ -76,4 +64,4 @@ Caso tenha dúvidas ou precise de suporte, entre em contato com o professor resp
 
 ---
 
-**© 2025 - Disciplina IA & Chatbot - Análise e Desenvolvimento de Sistemas**
+**© 2026 - Disciplina IA & Chatbot - Análise e Desenvolvimento de Sistemas**
