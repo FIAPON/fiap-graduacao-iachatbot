@@ -6,55 +6,20 @@ Este repositório contém materiais de apoio para a disciplina **IA & Chatbot** 
 
 Abaixo estão os codigos das aulas:
 
-### Aula 13 - Dados, Informação e Conhecimento
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula13__Dados_Informacao_Conhecimento.ipynb)
+### Aula 01 - Chatbots e Introdução ao ML
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_01_Chatbots_e_Introducao_ao_ML.ipynb)
 
-### Aula 14 - Estatística
-- **Estatística I**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula14_EstatisticaI.ipynb)
+### Aula 02 - Prática: Do Dado ao Gráfico (Titanic)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_02_Pratica_Do_Dado_ao_Grafico_Titanic.ipynb)
 
-- **Estatística II - Descritiva**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula14_EstatisticaII_Descritiva.ipynb)
+### Aula 03 - Prática: Preparando Titanic para ML
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_03_Pratica_Preparando_Titanic_para_ML.ipynb)
 
-### Aula 15 - Visualização de Dados
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula15_Visualizacao_Dados.ipynb)
+### Aula 04 - Prática: KNN Titanic
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_04_Pratica_KNN_Titanic.ipynb)
 
-### Aula 16 - Introdução à Ciência de Dados
-- **Introdução à Ciência de Dados**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula16_Intro_CD.ipynb)
-
-- **Introdução à Ciência de Dados - Parte 2**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula16_Introducao_Ciencia_dados.ipynb)
-
-### Aula 17 - Aprendizado Supervisionado
-- **K-Nearest Neighbors (KNN) - Parte 1**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Aprendizado_Supervisionado_KNN_1.ipynb)
-
-- **K-Nearest Neighbors (KNN) - Parte 2**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Aprendizado_Supervisionado_KNN_2.ipynb)
-
-- **Regressão Logística**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Aprendizado_Supervisionado_RegLog.ipynb)
-
-- **Suporte a Vetores de Máquinas (SVM)**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Aprendizado_Supervisionado_SVM.ipynb)
-
-- **TF-IDF e Árvores de Decisão**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Aprendizado_Supervisionado_TFIDF_ArvDec.ipynb)
-
-- **Introdução à Classificação**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Introducao_Aprendizado_Supervisionado_Classificacao.ipynb)
-
-- **Introdução ao Processamento de Linguagem Natural**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula17_Introducao_Processamento_Linguagem_Natural.ipynb)
-
-### Aula 18 - Regressão
-- **Introdução ao Aprendizado Supervisionado - Regressão**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula18_Introducao_Aprendizado_Supervisionado_Regressao.ipynb)
-
-### Aula 19 - Aprendizado Não Supervisionado
-- **Agrupamento (K-Means, DBSCAN, etc.)**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula19_Introducao_Apendizado_nao_Supervinsionado_Agrupamento(2).ipynb)
+### Aula 05 - Prática: Regressão Logística Titanic
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_05_Pratica_Regressao_Logistica_Titanic.ipynb)
 
 
 ---
