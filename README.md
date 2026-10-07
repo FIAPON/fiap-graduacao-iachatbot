@@ -30,8 +30,11 @@ Abaixo estão os codigos das aulas:
 ### Aula 08 - Prática: Árvore de Decisão Titanic
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_08_Pratica_Arvore_de_Decisao_Titanic.ipynb)
 
-### Aula 09 - Prática: KMeans Titanic
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_09_Pratica_KMeans_Titanic.ipynb)
+### Aula 09 - Prática: Random Forest e Ensembles Titanic
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_09_Pratica_RandomForest_Titanic.ipynb)
+
+### Aula 10 - Prática: KMeans Titanic
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_10_Pratica_KMeans_Titanic.ipynb)
 
 
 
@@ -50,7 +53,7 @@ Avaliações em grupo (até 4 pessoas), resolvidas em um notebook próprio por b
 ### Prova 2 - Regressão Linear, Regressão Logística e KNN (Aulas 04-05-06)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Prova_02_Regressao_e_KNN_BreastCancer.ipynb)
 
-### Prova 3 - SVM, Árvore de Decisão e K-Means (Aulas 07-08-09)
+### Prova 3 - SVM, Árvore de Decisão e K-Means (Aulas 07-08-10)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Prova_03_SVM_Arvore_e_Clustering_Titanic.ipynb)
 
 ---
