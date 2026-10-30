@@ -6,6 +6,7 @@ __pycache__/
 # Provas
 Prova*
 *.txt
+!requirements.txt
 
 # C extensions
 *.so
@@ -176,3 +177,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Aula 20 - arquivos gerados ao rodar o notebook/API localmente
+/app.py
+/servidor.log
+modelo_titanic.pkl

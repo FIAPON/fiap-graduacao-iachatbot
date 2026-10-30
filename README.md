@@ -38,23 +38,10 @@ Abaixo estão os codigos das aulas:
 
 
 
-### Aula 20 - Deploy Flask: Regressão Logística
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula%2020%20-%20Deploy%20Flask/reg_log.ipynb)
+### Aula 20 - Prática: API com Flask Titanic
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_20_Pratica_API_Flask_Titanic.ipynb)
 
----
-
-## 📝 Provas
-
-Avaliações em grupo (até 4 pessoas), resolvidas em um notebook próprio por bloco de aulas.
-
-### Prova 1 - EDA e Preparação de Dados (Aulas 02-03)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Prova_01_EDA_e_Preparacao_Penguins.ipynb)
-
-### Prova 2 - Regressão Linear, Regressão Logística e KNN (Aulas 04-05-06)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Prova_02_Regressao_e_KNN_BreastCancer.ipynb)
-
-### Prova 3 - SVM, Árvore de Decisão e K-Means (Aulas 07-08-10)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Prova_03_SVM_Arvore_e_Clustering_Titanic.ipynb)
+📁 Para rodar a API no seu computador: [Aula_20_API_Flask_Titanic/](https://github.com/FIAPON/fiap-graduacao-iachatbot/tree/main/Aula_20_API_Flask_Titanic)
 
 ---
 
