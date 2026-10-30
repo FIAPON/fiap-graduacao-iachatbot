@@ -1,5 +1,5 @@
 """
-Aula 20 — Passo 3: o cliente — um mini-chatbot de terminal que consulta a API
+Aula 20 — O cliente: um mini-chatbot de terminal que consulta a API 🤖
 
 Uso:  python cliente.py    (em OUTRO terminal, com o app.py já rodando)
 """
@@ -31,14 +31,25 @@ def perguntar(texto, tipo=str):
             print("     Hmm, não entendi. Pode digitar só o número?")
 
 
-if __name__ == "__main__":
+def conferir_api():
+    """Confere se quem responde na porta é mesmo a nossa API (e não outro programa)."""
     try:
-        info = requests.get(f"{URL}/info", timeout=2).json()
+        resposta = requests.get(f"{URL}/info", timeout=2)
     except requests.exceptions.ConnectionError:
-        print("🔴 Não encontrei a API. Ela está rodando? Abra outro terminal e rode: python app.py")
-        raise SystemExit(1)
+        raise SystemExit("🔴 Não encontrei a API. Ela está rodando? "
+                         "Abra outro terminal e rode: python app.py")
+    try:
+        info = resposta.json()
+        return info["modelo"], info["acuracia_teste"]
+    except (ValueError, KeyError):
+        raise SystemExit(f"🔴 Algo respondeu em {URL}, mas não é a nossa API.\n"
+                         "   Outro programa deve estar usando a porta 5000: feche-o "
+                         "ou troque a porta no app.py e aqui.") from None
 
-    print(f"🟢 Conectado ao Oráculo ({info['modelo']}, acurácia {info['acuracia_teste']:.1%})\n")
+
+if __name__ == "__main__":
+    modelo, acuracia = conferir_api()
+    print(f"🟢 Conectado ao Oráculo ({modelo}, acurácia {acuracia:.1%})\n")
 
     print("🎬 Os protagonistas do filme:")
     jack = {"pclass": 3, "sex": "male",   "age": 20, "sibsp": 0, "parch": 0, "fare": 7.75}

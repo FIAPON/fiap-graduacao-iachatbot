@@ -41,7 +41,7 @@ Abaixo estão os codigos das aulas:
 ### Aula 20 - Prática: API com Flask Titanic
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-graduacao-iachatbot/blob/main/Aula_20_Pratica_API_Flask_Titanic.ipynb)
 
-📁 Para rodar a API no seu computador: [Aula_20_API_Flask_Titanic/](https://github.com/FIAPON/fiap-graduacao-iachatbot/tree/main/Aula_20_API_Flask_Titanic)
+📓 Etapa 1 no Colab: treinar e baixar o modelo  ·  💻 Etapa 2 no seu computador: rodar a API → [Aula_20_API_Flask_Titanic/](https://github.com/FIAPON/fiap-graduacao-iachatbot/tree/main/Aula_20_API_Flask_Titanic)
 
 ---
 

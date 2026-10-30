@@ -178,7 +178,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Aula 20 - arquivos gerados ao rodar o notebook/API localmente
-/app.py
-/servidor.log
+# Aula 20 - modelo gerado pelo notebook (cada um gera o seu)
 modelo_titanic.pkl
